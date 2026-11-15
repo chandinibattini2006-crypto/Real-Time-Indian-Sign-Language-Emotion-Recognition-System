@@ -1,9 +1,12 @@
 opencv-python
-mediapipe
+mediapipe==0.10.14
 scikit-learn
-numpy
+numpy<2.0.0
 pyttsx3
 joblib
 torch
 torchvision
 torchaudio
+fer
+tensorflow==2.15.1
+setuptools<70
